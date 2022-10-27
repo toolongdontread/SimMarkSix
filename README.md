@@ -16,4 +16,13 @@ Please enter a number:
 ...
 ```
 
+After entering all numbers, the program will show you the 7 numbers that can win the prize in list:
+
+```
+The numbers are:
+[1,3,11,13,21,23,49]
+```
+
+If you win, ```Congratulations!!!!!!!!!!!!``` will be shown. Otherwise, ```See you next time!```
+
 **Good Luck!!!**
